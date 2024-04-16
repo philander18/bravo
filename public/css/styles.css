@@ -4,9 +4,8 @@ html, body {
 }
 
 body{
-    background-image: url(../images/background.jpg);
+    background-image: url(../images/background.png);
     background-size: cover;
-    background-repeat: repeat;
 }
 
 .Oswald-200 {
@@ -45,11 +44,6 @@ body{
   font-weight: 700;
   font-style: normal;
 }
-
-div.konten {
-  background-color: rgb(255, 255, 255, 0.9);
-  border-radius: 40px;
-}
-.konten img {
+div img {
   width: 80%;
 }
