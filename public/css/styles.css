@@ -47,6 +47,7 @@ body{
 }
 
 .konten {
+  height: auto;
   background-color: rgb(255, 255, 255, 0.9);
   border-radius: 40px;
 }
