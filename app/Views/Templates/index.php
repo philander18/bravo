@@ -19,7 +19,7 @@
     <link href="<?= base_url(); ?>public/css/phil.css?v=<?= time(); ?>" rel="stylesheet" type="text/css">
 
     <!-- Logo Icon -->
-    <link rel="shortcut icon" href="<?= base_url(); ?>public/images/logo1.png">
+    <link rel="shortcut icon" href="<?= base_url(); ?>public/images/logo_background.png">
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
@@ -43,6 +43,7 @@
     <!-- Swipper.js -->
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <?= $this->include('Templates/script'); ?>
+    <?= $this->include('Home/script'); ?>
 </body>
 
 </html>
