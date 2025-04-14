@@ -19,7 +19,7 @@
 .container-phil {
     display: grid;
     grid-template-columns: minmax(360px,1fr);
-    /* margin: 6em 0 0; */
+    margin: 3em 0 0;
 }
 
 /* halaman konten */
